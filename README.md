@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 bot for game Tic-Tac-Toe
 
-## Usage:
+## Run in cmd:
 ```
 python playGame.py
 ```
