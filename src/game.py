@@ -63,7 +63,6 @@ class Game:
         if self.setup == False:
             return
         system('cls||clear')
-        print()
         print(f"Ход бота {n_bots} ('{n_symbol}')")
         for i in self.arena:
             print(''.join(i))
