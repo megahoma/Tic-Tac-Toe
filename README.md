@@ -5,3 +5,5 @@ bot for game Tic-Tac-Toe
 ```
 python playGame.py
 ```
+
+### Coded by [megahoma](https://github.com/megahoma)
